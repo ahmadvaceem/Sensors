@@ -1,0 +1,52 @@
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\Termie.AboutBox.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.csproj.GenerateResource.Cache
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.Form1.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.Properties.Resources.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\bin\Debug\sf.exe
+F:\cantool\c#编写串口通讯代码 多线程实现\bin\Debug\sf.pdb
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.exe
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.pdb
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.Form2.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.csprojResolveAssemblyReference.cache
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.exe
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.pdb
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\bin\Debug\sf.exe
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\bin\Debug\sf.pdb
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.csprojResolveAssemblyReference.cache
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\Termie.AboutBox.resources
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.Form1.resources
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.Form2.resources
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.Properties.Resources.resources
+C:\Users\Keith & Angela\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.csproj.GenerateResource.Cache
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.exe
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.pdb
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\bin\Debug\sf.exe
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\bin\Debug\sf.pdb
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.csprojResolveAssemblyReference.cache
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\Termie.AboutBox.resources
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.Form1.resources
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.Form2.resources
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.Properties.Resources.resources
+C:\Users\Mubeenuwais\Desktop\com 111\Cantool-master\receive\obj\Debug\sf.csproj.GenerateResource.Cache
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\sf.exe
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\sf.pdb
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\sf.csprojResolveAssemblyReference.cache
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\Termie.AboutBox.resources
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\sf.Form1.resources
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\sf.Form2.resources
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\sf.Properties.Resources.resources
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\obj\Debug\sf.csproj.GenerateResource.Cache
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\bin\Debug\sf.exe
+C:\Users\Mubeenuwais\Desktop\processing-3.3.6\com 111\Cantool-master\receive\bin\Debug\sf.pdb
+E:\com 111\Cantool-master\receive\obj\Debug\sf.exe
+E:\com 111\Cantool-master\receive\obj\Debug\sf.pdb
+F:\com 111\Cantool-master\receive\obj\Debug\sf.exe
+F:\com 111\Cantool-master\receive\obj\Debug\sf.pdb
+F:\com 111\Cantool-master\receive\bin\Debug\sf.exe
+F:\com 111\Cantool-master\receive\bin\Debug\sf.pdb
+F:\com 111\Cantool-master\receive\obj\Debug\sf.csprojResolveAssemblyReference.cache
+F:\com 111\Cantool-master\receive\obj\Debug\Termie.AboutBox.resources
+F:\com 111\Cantool-master\receive\obj\Debug\sf.Form1.resources
+F:\com 111\Cantool-master\receive\obj\Debug\sf.Form2.resources
+F:\com 111\Cantool-master\receive\obj\Debug\sf.Properties.Resources.resources
+F:\com 111\Cantool-master\receive\obj\Debug\sf.csproj.GenerateResource.Cache
